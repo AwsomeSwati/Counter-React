@@ -1,0 +1,16 @@
+.todo{
+    display: flex;
+    max-width: 200px;
+    text-align: center;
+}
+
+.todoList{
+    margin-left:45%;
+}
+
+.red{
+    color:red;
+}
+.green{
+    color:green;
+}
